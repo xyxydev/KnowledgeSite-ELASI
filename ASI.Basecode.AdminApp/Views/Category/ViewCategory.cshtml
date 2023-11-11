@@ -1,0 +1,35 @@
+﻿@using ASI.Basecode.Services.ServiceModels
+@model CategoryViewModel
+
+@section styles {
+    <link rel="stylesheet" href="~/css/viewcategory.css" />
+}
+@{
+    ViewData["Title"] = "View Category";
+    ViewBag.IsViewCategoryPage = true;
+}
+
+<div class="viewuser-div">
+    <div class="inside-viewuser">
+        <div>
+            <form method="post" asp-action="ViewUser">
+                <div class="inputs-div">
+                    <div>
+                        <input type="hidden" class="input-design" asp-for="Id">
+                        <label for="categoryName" class="inputs-label">CATEGORY NAME</label><br>
+                        <input type="text" class="input-design" asp-for="CategoryName" readonly><br>
+                        <label for="categoryDesc" class="inputs-label">DESCRIPTION</label><br>
+                        <input type="text" class="input-design" asp-for="CategoryDesc" readonly><br>
+                    </div>
+                    <div class="rightside-div">
+                        <a class="back-button-div" asp-controller="Category" asp-action="TrainingCategories">
+                            <p class="back-button-p">BACK TO LIST</p>
+                        </a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+@section scripts{
+}
