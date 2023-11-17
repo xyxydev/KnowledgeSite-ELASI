@@ -50,5 +50,10 @@ namespace ASI.Basecode.Data.Repositories
             this.GetDbSet<Training>().Remove(training);
             UnitOfWork.SaveChanges();
         }
+
+        public IQueryable<Training> GetTrainings() 
+        {
+            return this.GetDbSet<Training>(); 
+        }
     }
 }

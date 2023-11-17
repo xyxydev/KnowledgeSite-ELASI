@@ -19,5 +19,7 @@ namespace ASI.Basecode.Data.Interfaces
        public void UpdateTraining(Training training);
 
        public void DeleteTraining(Training training);
+
+       IQueryable<Training> GetTrainings();
     }
 }

@@ -8,6 +8,9 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net.Mail;
+using System.Net;
+using System.Threading.Tasks;
 using static ASI.Basecode.Resources.Constants.Enums;
 
 namespace ASI.Basecode.Services.Services
@@ -33,7 +36,7 @@ namespace ASI.Basecode.Services.Services
             return user != null ? LoginResult.Success : LoginResult.Failed;
         }
 
-        public void AddUser(UserViewModel model)
+        public void AddUser(UserViewModel model, string username)
         {
             var user = new User();
             if (!_repository.UserExists(model.UserId))
@@ -42,8 +45,8 @@ namespace ASI.Basecode.Services.Services
                 user.Password = PasswordManager.EncryptPassword(model.Password);
                 user.CreatedTime = DateTime.Now;
                 user.UpdatedTime = DateTime.Now;
-                user.CreatedBy = System.Environment.UserName;
-                user.UpdatedBy = System.Environment.UserName;
+                user.CreatedBy = username;
+                user.UpdatedBy = username;
 
                 _repository.AddUser(user);
             }
@@ -76,7 +79,7 @@ namespace ASI.Basecode.Services.Services
             return false;
         }
 
-        public bool UpdateUser(UserViewModel model)
+        public bool UpdateUser(UserViewModel model, string username)
         {
             User user = _repository.GetUser(model.Id);
             if (user != null)
@@ -89,7 +92,7 @@ namespace ASI.Basecode.Services.Services
                 //user.Password = model.Password;
                 user.Password = PasswordManager.EncryptPassword(model.Password);
 
-                user.UpdatedBy = "Username";
+                user.UpdatedBy = username;
                 user.CreatedTime = DateTime.Now;
 
                 _repository.UpdateUser(user);
@@ -97,5 +100,29 @@ namespace ASI.Basecode.Services.Services
             }
             return false;
         }
+
+        public async Task<User> GetUserByEmail(string email)
+        {
+            var user = await _repository.GetUserByEmail(email);
+            return user;
+        }
+
+        public async Task<bool> UpdateUserPasswordByEmail(string email, string newPassword)
+        {
+
+            var user = await _repository.GetUserByEmail(email);
+            if (user != null)
+            {
+                user.Password = PasswordManager.EncryptPassword(newPassword);
+                user.UpdatedBy = "admin"; 
+                user.UpdatedTime = DateTime.Now;
+
+                _repository.UpdateUser(user);
+                return true;
+            }
+            return false;
+        }
+
+
     }
 }

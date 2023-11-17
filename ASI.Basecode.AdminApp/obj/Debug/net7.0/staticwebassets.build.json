@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wTziC/WkXptL+0l9pdHlz3rR6UV6rp5ZqhxRfUegCxE=",
+  "Hash": "9BPaubXIy05g849Xmqv+UCexFRoGIYatbN/XsVMHpHw=",
   "Source": "ASI.Basecode.AdminApp",
   "BasePath": "_content/ASI.Basecode.AdminApp",
   "Mode": "Default",
@@ -151,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\topics.css",
+      "SourceId": "ASI.Basecode.AdminApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "BasePath": "_content/ASI.Basecode.AdminApp",
+      "RelativePath": "css/topics.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\topics.css"
     },
     {
       "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\trainingcategory.css",

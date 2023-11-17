@@ -12,7 +12,7 @@
 
 <div class="screen-container">
     <div class="inside-container">
-        <form method="post" asp-action="CreateTraining">
+        <form method="post" enctype="multipart/form-data" asp-action="CreateTraining" >
             <div class="form-group">
                 <label>TRAINING NAME</label>
                 <input type="text" class="form-control" asp-for="TrainingName">
@@ -35,7 +35,10 @@
                     }
                 </select>
             </div>
-
+            <div class="form-group">
+                <label>CHOOSE IMAGE</label>
+                <input asp-for="ImageFile" type="file" accept=".png, .jpg" class="form-control-file" >
+            </div>
 
             <button type="submit" class="btn btn-primary">Submit</button>
         </form>

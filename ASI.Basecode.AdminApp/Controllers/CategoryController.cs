@@ -1,19 +1,34 @@
-﻿using ASI.Basecode.Services.Interfaces;
+﻿using ASI.Basecode.AdminApp.Mvc;
+using ASI.Basecode.Data.Models;
+using ASI.Basecode.Services.Interfaces;
 using ASI.Basecode.Services.ServiceModels;
 using ASI.Basecode.Services.Services;
+using AutoMapper;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Logging;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace ASI.Basecode.AdminApp.Controllers
 {
-    public class CategoryController : Controller
+    public class CategoryController : ControllerBase<CategoryController>
     {
         private readonly ICategoryService _categoryService;
+        private readonly ITrainingService _trainingService;
 
         //constructor to call service
 
-        public CategoryController(ICategoryService categoryService)
+        public CategoryController(ICategoryService categoryService, 
+                                  ITrainingService trainingService,
+                                  IHttpContextAccessor httpContextAccessor,
+                                  ILoggerFactory loggerFactory,
+                                  IConfiguration configuration,
+                                  IMapper mapper = null) : base(httpContextAccessor, loggerFactory, configuration, mapper)
         {
             _categoryService = categoryService;
+            _trainingService = trainingService;
         }
 
 
@@ -30,7 +45,7 @@ namespace ASI.Basecode.AdminApp.Controllers
         [HttpPost]
         public IActionResult CreateCategory(CategoryViewModel categoryViewModel)
         {
-            _categoryService.AddCategory(categoryViewModel);
+            _categoryService.AddCategory(categoryViewModel, this.UserName);
             return RedirectToAction("TrainingCategories");
         }
 
@@ -40,18 +55,28 @@ namespace ASI.Basecode.AdminApp.Controllers
             var category = _categoryService.GetCategory(id);
             if (category != null)
             {
+                List<Training> trainings = _trainingService.GetTrainingsByCategoryId(id);
+
+                List<TrainingViewModel> trainingViewModels = trainings.Select(training => new TrainingViewModel
+                {
+                    Id = training.Id,
+                    TrainingName = training.TrainingName,
+                    //CategoryId = category.Id,
+                    
+                }).ToList();
+
                 CategoryViewModel categoryViewModel = new()
                 {
                     Id = id,
                     CategoryName = category.CategoryName,
                     CategoryDesc = category.CategoryDesc,
+                    Trainings = trainingViewModels
                 };
                 return View(categoryViewModel);
             }
             return NotFound();
         }
 
-        //check category if exist, then display data
         [HttpGet]
         public IActionResult EditCategory(int id)
         {
@@ -72,7 +97,7 @@ namespace ASI.Basecode.AdminApp.Controllers
         [HttpPost]
         public IActionResult EditCategory(CategoryViewModel categoryViewModel)
         {
-            bool isUpdated = _categoryService.UpdateCategory(categoryViewModel);
+            bool isUpdated = _categoryService.UpdateCategory(categoryViewModel, this.UserName);
             if (isUpdated)
             {
                 return RedirectToAction("TrainingCategories");

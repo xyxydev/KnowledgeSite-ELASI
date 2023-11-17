@@ -20,16 +20,16 @@ namespace ASI.Basecode.Services.Services
         {
             _categoryRepository = categoryRepository;
         }
-        public void AddCategory(CategoryViewModel categoryViewModel)
+        public void AddCategory(CategoryViewModel categoryViewModel, string username)
         {
             Category category = new()
             {
                 Id = categoryViewModel.Id,
                 CategoryName = categoryViewModel.CategoryName,
                 CategoryDesc = categoryViewModel.CategoryDesc,
-                CreatedBy = "Static Admin", // in real program to trace who create
+                CreatedBy = username,
                 CreatedTime = DateTime.Now,
-                UpdatedBy = "Static Admin",
+                UpdatedBy = username,
                 UpdatedTime = DateTime.Now,
             };
 
@@ -49,7 +49,7 @@ namespace ASI.Basecode.Services.Services
             return category;
         }
 
-        public bool UpdateCategory(CategoryViewModel categoryViewModel)
+        public bool UpdateCategory(CategoryViewModel categoryViewModel, string username)
         {
             Category category = _categoryRepository.GetCategory(categoryViewModel.Id);
             if (category != null)
@@ -57,7 +57,7 @@ namespace ASI.Basecode.Services.Services
                 category.Id = categoryViewModel.Id;
                 category.CategoryName = categoryViewModel.CategoryName;
                 category.CategoryDesc = categoryViewModel.CategoryDesc;
-                category.UpdatedBy = "Static Admin";
+                category.UpdatedBy = username;
                 category.UpdatedTime = System.DateTime.Now;
 
                 _categoryRepository.UpdateCategory(category);

@@ -33,6 +33,10 @@
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
+      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\topics.css",
+      "PackagePath": "staticwebassets\\css\\topics.css"
+    },
+    {
       "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\trainingcategory.css",
       "PackagePath": "staticwebassets\\css\\trainingcategory.css"
     },

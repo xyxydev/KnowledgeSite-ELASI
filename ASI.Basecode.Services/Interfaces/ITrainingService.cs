@@ -10,10 +10,18 @@ namespace ASI.Basecode.Services.Interfaces
 {
     public interface ITrainingService
     {
-        public void AddTraining(TrainingViewModel trainingViewModel);
+        public void AddTraining(TrainingViewModel trainingViewModel, string username);
 
         public List<Training> GetTraining();
 
+        public Training GetTraining(int id);
+
         public bool DeleteTraining(TrainingViewModel trainingViewModel);
+
+        public bool UpdateTraining(TrainingViewModel trainingViewModel, string username);
+
+        public List<Training> GetTrainingsByCategoryId(int categoryId);
+
+        List<TrainingViewModel> GetTrainings();
     }
 }

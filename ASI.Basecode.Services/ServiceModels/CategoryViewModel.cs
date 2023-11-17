@@ -11,5 +11,7 @@ namespace ASI.Basecode.Services.ServiceModels
         public int Id { get; set; }
         public string CategoryName { get; set; }
         public string CategoryDesc { get; set; }
+
+        public List<TrainingViewModel> Trainings { get; set; }
     }
 }
