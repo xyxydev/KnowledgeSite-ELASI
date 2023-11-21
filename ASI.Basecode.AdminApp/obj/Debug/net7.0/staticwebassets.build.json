@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9BPaubXIy05g849Xmqv+UCexFRoGIYatbN/XsVMHpHw=",
+  "Hash": "5Y9nGZGPT+LmnPbOdWRbkkKTth2LpoYH5ozN1kzLggw=",
   "Source": "ASI.Basecode.AdminApp",
   "BasePath": "_content/ASI.Basecode.AdminApp",
   "Mode": "Default",
@@ -117,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
+      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\resetpassword.css",
+      "SourceId": "ASI.Basecode.AdminApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "BasePath": "_content/ASI.Basecode.AdminApp",
+      "RelativePath": "css/resetpassword.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\resetpassword.css"
     },
     {
       "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\site.css",

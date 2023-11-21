@@ -16,6 +16,10 @@ namespace ASI.Basecode.Data.Repositories
         {
 
         }
+        public bool TrainingExists(string TrainingName)
+        {
+            return this.GetDbSet<Training>().Any(x => x.TrainingName == TrainingName);
+        }
 
         //add training
         public void AddTraining(Training training)
@@ -55,5 +59,6 @@ namespace ASI.Basecode.Data.Repositories
         {
             return this.GetDbSet<Training>(); 
         }
+
     }
 }

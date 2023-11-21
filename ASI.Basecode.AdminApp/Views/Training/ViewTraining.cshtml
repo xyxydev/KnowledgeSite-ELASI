@@ -7,6 +7,7 @@
 @{
     ViewData["Title"] = "View Training";
     ViewBag.IsViewTrainingPage = true;
+    var trainingId = Model.Id; // Assigning Model.Id to a variable
 }
 
 <div class="viewuser-div">
@@ -22,16 +23,17 @@
                             <img src="@Model.ImageUrl" style="width: 100%;" alt="Training Image">
                         </div><br />
                         <label for="trainingDesc" class="inputs-label">DESCRIPTION</label>
-                        <input type="text" class="input-design" asp-for="TrainingDesc" readonly><br><br>
+                        <textarea type="text" class="input-design" asp-for="TrainingDesc" readonly></textarea><br><br>
                         <label for="trainingDesc" class="inputs-label">AUTHOR</label>
                         <input type="text" class="input-design" asp-for="TrainingAuthor" readonly><br><br>
                         <label for="trainingDesc" class="inputs-label">CATEGORY</label>
                         <input type="text" class="input-design" asp-for="CategoryName" readonly><br><br>
                     </div>
                     <div>
-                        <a asp-controller="Topic" asp-action="Topics">
+                        <a asp-controller="Topic" asp-action="Topics" asp-route-trainingId="@trainingId">
                             <p>View Topic</p>
                         </a>
+
                     </div>
                     <div class="rightside-div">
                         <a class="back-button-div" asp-controller="Training" asp-action="Trainings">

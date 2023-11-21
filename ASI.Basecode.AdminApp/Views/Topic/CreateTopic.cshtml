@@ -12,19 +12,26 @@
 
 <div class="screen-container">
     <div class="inside-container">
+        <div>
+            <p style="color: black">Training ID: @ViewBag.TrainingId</p>
+        </div>
         <form method="post" enctype="multipart/form-data" asp-action="CreateTopic">
+            <input type="hidden" name="TrainingId" value="@ViewBag.TrainingId">
             <div class="form-group">
                 <label>TOPIC NAME</label>
                 <input type="text" class="form-control" asp-for="TopicName">
+                <span asp-validation-for="TopicName" class="text-danger"></span><br>
             </div>
             <div class="form-group">
                 <label>TOPIC DESC</label>
                 <input type="text" class="form-control" asp-for="TopicDesc">
+                <span asp-validation-for="TopicDesc" class="text-danger"></span><br>
             </div>
 
             <div class="form-group">
                 <label>CHOOSE FILE</label>
                 <input asp-for="ImageFile" type="file" accept=".pdf, .ppt, .pptx, .mp4, .avi, .mov" class="form-control-file">
+                <span asp-validation-for="ImageFile" class="text-danger"></span><br>
             </div>
 
             <button type="submit" class="btn btn-primary">Submit</button>

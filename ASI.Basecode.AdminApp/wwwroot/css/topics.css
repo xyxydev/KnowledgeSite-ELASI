@@ -61,3 +61,13 @@ th {
 .btn-spacing {
     margin-right: 5px;
 }
+
+.emptyTable {
+    color: white;
+    margin-top: 30px;
+    font-size: 25px;
+}
+.back-button-div {
+    border: none;
+    color: white;
+}

@@ -9,6 +9,8 @@ namespace ASI.Basecode.Data.Interfaces
 {
     public interface ICategoryRepository
     {
+        bool CategoryExists(string CategoryName);
+
         public void AddCategory(Category category);
 
         public List<Category> GetCategory();

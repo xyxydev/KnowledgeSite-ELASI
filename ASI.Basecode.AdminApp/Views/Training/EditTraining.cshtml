@@ -17,14 +17,17 @@
         <div class="form-group">
             <label>TRAINING NAME</label>
             <input type="text" class="form-control" asp-for="TrainingName">
+            <span asp-validation-for="TrainingName" class="text-danger"></span><br>
         </div>
         <div class="form-group">
             <label>TRAINING AUTHOR</label>
             <input type="text" class="form-control" asp-for="TrainingAuthor">
+            <span asp-validation-for="TrainingAuthor" class="text-danger"></span><br>
         </div>
         <div class="form-group">
             <label>DESCRIPTION</label>
             <textarea class="form-control" rows="3" asp-for="TrainingDesc"></textarea>
+            <span asp-validation-for="TrainingDesc" class="text-danger"></span><br>
         </div>
 
         <div class="form-group">
@@ -43,10 +46,16 @@
         <div class="form-group">
             <label>CHOOSE IMAGE</label>
             <input asp-for="ImageFile" type="file" accept=".png" class="form-control-file" onchange="previewFile()">
+            <span asp-validation-for="ImageFile" class="text-danger"></span><br>
         </div>
 
 
         <button type="submit" class="btn btn-primary">Submit</button>
+        <div class="form-group" style="margin-top: 30px;">
+            <a class="btn btn-secondary" asp-controller="Training" asp-action="Trainings">
+                BACK TO LIST
+            </a>
+        </div>
     </form>
 
 </div>

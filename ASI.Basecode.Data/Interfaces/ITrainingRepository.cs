@@ -9,7 +9,8 @@ namespace ASI.Basecode.Data.Interfaces
 {
     public interface ITrainingRepository
     {
-       
+       bool TrainingExists(string TrainingName);
+
        public void AddTraining(Training training);
 
        public List<Training> GetTraining();

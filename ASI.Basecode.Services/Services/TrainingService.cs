@@ -23,31 +23,38 @@ namespace ASI.Basecode.Services.Services
             _trainingRepository = trainingRepository;
             _dbContext = dbContext;
         }
-        
+
         public void AddTraining(TrainingViewModel trainingViewModel, string username)
         {
-
-            var coverImagesPath = PathManager.DirectoryPath.CoverImagesDirectory;
-            var model = new Training();
-            model.Id = trainingViewModel.Id;
-            model.CategoryId = trainingViewModel.CategoryId;
-            model.TrainingName = trainingViewModel.TrainingName;
-            model.TrainingDesc = trainingViewModel.TrainingDesc;
-            model.TrainingAuthor = trainingViewModel.TrainingAuthor;
-            model.TrainingImage = Guid.NewGuid().ToString();
-            model.CreatedBy = username;
-            model.CreatedTime = DateTime.Now;
-            model.UpdatedBy = username;
-            model.UpdatedTime = DateTime.Now;
-
-            var coverImageFileName = Path.Combine(coverImagesPath, model.TrainingImage) + ".png";
-            using (var fileStream = new FileStream(coverImageFileName, FileMode.Create))
+            if (!_trainingRepository.TrainingExists(trainingViewModel.TrainingName))
             {
-                trainingViewModel.ImageFile.CopyTo(fileStream);
-            }
-           
+                var coverImagesPath = PathManager.DirectoryPath.CoverImagesDirectory;
+                Training training = new Training
+                {
+                    Id = trainingViewModel.Id,
+                    CategoryId = trainingViewModel.CategoryId,
+                    TrainingName = trainingViewModel.TrainingName,
+                    TrainingDesc = trainingViewModel.TrainingDesc,
+                    TrainingAuthor = trainingViewModel.TrainingAuthor,
+                    TrainingImage = Guid.NewGuid().ToString(),
+                    CreatedBy = username,
+                    CreatedTime = DateTime.Now,
+                    UpdatedBy = username,
+                    UpdatedTime = DateTime.Now
+                };
 
-            _trainingRepository.AddTraining(model);
+                var coverImageFileName = Path.Combine(coverImagesPath, training.TrainingImage) + ".png";
+                using (var fileStream = new FileStream(coverImageFileName, FileMode.Create))
+                {
+                    trainingViewModel.ImageFile.CopyTo(fileStream);
+                }
+
+                _trainingRepository.AddTraining(training);
+            }
+            else
+            {
+                throw new InvalidDataException(Resources.Messages.Errors.TrainingExists);
+            }
         }
 
         public List<Training> GetTraining()
@@ -62,12 +69,13 @@ namespace ASI.Basecode.Services.Services
 
             return training;
         }
+
         
-       public bool UpdateTraining(TrainingViewModel trainingViewModel, string username)
-       {
-           Training training = _trainingRepository.GetTraining(trainingViewModel.Id);
-           if (training != null)
-           {
+        public bool UpdateTraining(TrainingViewModel trainingViewModel, string username)
+        {
+            Training training = _trainingRepository.GetTraining(trainingViewModel.Id);
+            if (training != null)
+            {
                 training.Id = trainingViewModel.Id;
                 training.CategoryId = trainingViewModel.CategoryId;
                 training.TrainingName = trainingViewModel.TrainingName;
@@ -77,22 +85,56 @@ namespace ASI.Basecode.Services.Services
                 training.UpdatedTime = System.DateTime.Now;
 
                 _trainingRepository.UpdateTraining(training);
-               return true;
-           }
-
-           return false;
-       }
-        public bool DeleteTraining(TrainingViewModel trainingViewModel)
-        {
-            Training training = _trainingRepository.GetTraining(trainingViewModel.Id);
-            if (training != null)
-            {
-                _trainingRepository.DeleteTraining(training);
                 return true;
             }
 
             return false;
         }
+        /*
+        public void UpdateTraining(TrainingViewModel updatedTraining, string username)
+        {
+            var existingTraining = _trainingRepository.GetTraining(updatedTraining.Id);
+
+            if (existingTraining != null)
+            {
+                // Update the fields that can change
+                existingTraining.CategoryId = updatedTraining.CategoryId;
+                existingTraining.TrainingName = updatedTraining.TrainingName;
+                existingTraining.TrainingDesc = updatedTraining.TrainingDesc;
+                existingTraining.TrainingAuthor = updatedTraining.TrainingAuthor;
+                existingTraining.UpdatedBy = username;
+                existingTraining.UpdatedTime = DateTime.Now;
+
+                // Check if a new image is provided
+                if (updatedTraining.ImageFile != null)
+                {
+                    var coverImagesPath = PathManager.DirectoryPath.CoverImagesDirectory;
+
+                    // Delete the old image file
+                    var oldImagePath = Path.Combine(coverImagesPath, existingTraining.TrainingImage) + ".png";
+                    if (File.Exists(oldImagePath))
+                    {
+                        File.Delete(oldImagePath);
+                    }
+
+                    // Generate a new GUID for the image file name
+                    existingTraining.TrainingImage = Guid.NewGuid().ToString();
+
+                    // Save the new image file
+                    var newImagePath = Path.Combine(coverImagesPath, existingTraining.TrainingImage) + ".png";
+                    using (var fileStream = new FileStream(newImagePath, FileMode.Create))
+                    {
+                        updatedTraining.ImageFile.CopyTo(fileStream);
+                    }
+                }
+
+                // Update the training in the repository
+                _trainingRepository.UpdateTraining(existingTraining);
+            }
+           
+        }*/
+
+
 
         public List<Training> GetTrainingsByCategoryId(int categoryId)
         {
@@ -113,6 +155,57 @@ namespace ASI.Basecode.Services.Services
             return data;
         }
 
+        public TrainingViewModel GetTrainingViewModel(Training training, int id, Category category)
+        {
+            var model = new TrainingViewModel();
+            var url = "https://127.0.0.1:8080/";
+
+            model = new TrainingViewModel
+            {
+                Id = id,
+                TrainingName = training.TrainingName,
+                TrainingDesc = training.TrainingDesc,
+                TrainingAuthor = training.TrainingAuthor,
+                CategoryId = training.CategoryId,
+                CategoryName = category != null ? category.CategoryName : "No category selected",
+                ImageUrl = Path.Combine(url, training.TrainingImage + ".png"),
+            };
+            return model;
+        }
+
+        public TrainingViewModel GetEditTrainingViewModel(Training training, int id, Category category, List<CategoryViewModel> categoryViewModels)
+        {
+            var model = new TrainingViewModel();
+            var url = "https://127.0.0.1:8080/";
+
+            model = new TrainingViewModel
+            {
+                Id = id,
+                TrainingName = training.TrainingName,
+                TrainingDesc = training.TrainingDesc,
+                TrainingAuthor = training.TrainingAuthor,
+                CategoryId = training.CategoryId,
+                Categories = categoryViewModels, // Pass category view models received from the controller
+                CategoryName = category != null ? category.CategoryName : "No category selected",
+                ImageUrl = Path.Combine(url, training.TrainingImage + ".png"),
+            };
+
+            
+
+            return model;
+        }
+
+        public bool DeleteTraining(TrainingViewModel trainingViewModel)
+        {
+            Training training = _trainingRepository.GetTraining(trainingViewModel.Id);
+            if (training != null)
+            {
+                _trainingRepository.DeleteTraining(training);
+                return true;
+            }
+
+            return false;
+        }
 
     }
 }

@@ -16,28 +16,40 @@
             <div class="form-group">
                 <label>TRAINING NAME</label>
                 <input type="text" class="form-control" asp-for="TrainingName">
+                <span asp-validation-for="TrainingName" class="text-danger"></span><br>
             </div>
             <div class="form-group">
                 <label>TRANING DESC</label>
-                <input type="text" class="form-control" asp-for="TrainingDesc">
+                <textarea type="text" class="form-control" asp-for="TrainingDesc"></textarea>
+                <span asp-validation-for="TrainingDesc" class="text-danger"></span><br>
             </div>
             <div class="form-group">
                 <label>AUTHOR</label>
                 <input type="text" class="form-control" asp-for="TrainingAuthor">
+                <span asp-validation-for="TrainingAuthor" class="text-danger"></span><br>
             </div>
 
             <div class="form-group">
                 <label>CATEGORY</label>
-                <select class="form-control" asp-for="CategoryId">
-                    @foreach (var category in ViewBag.Categories)
-                    {
-                        <option value="@category.Id">@category.CategoryName</option>
-                    }
-                </select>
+                @if (ViewBag.Categories != null)
+                {
+                    <select class="form-control" asp-for="CategoryId">
+                        @foreach (var category in ViewBag.Categories)
+                        {
+                            <option value="@category.Id">@category.CategoryName</option>
+                        }
+                    </select>
+                }
+                else
+                {
+                    <p>No categories found.</p>
+                }
             </div>
             <div class="form-group">
                 <label>CHOOSE IMAGE</label>
                 <input asp-for="ImageFile" type="file" accept=".png, .jpg" class="form-control-file" >
+                <span asp-validation-for="ImageFile" class="text-danger"></span><br>
+                <span asp-validation-for="ImageUrl" class="text-danger"></span><br>
             </div>
 
             <button type="submit" class="btn btn-primary">Submit</button>

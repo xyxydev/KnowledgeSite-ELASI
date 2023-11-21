@@ -22,13 +22,13 @@ namespace ASI.Basecode.Services.Services
             _topicRepository = topicRepository;
         }
 
-        public void AddTopic(TopicViewModel topicViewModel, string username)
+        public void AddTopic(TopicViewModel topicViewModel, string username, int trainingId)
         {
 
             var coverImagesPath = PathManager.DirectoryPath.CoverImagesDirectory;
             var model = new Topic();
-            model.Id = topicViewModel.Id;
-            //model.TrainingId = topicViewModel.TrainingId;
+            model.TopicId = topicViewModel.TopicId;
+            model.TrainingId = trainingId;
             model.TopicName = topicViewModel.TopicName;
             model.TopicDesc = topicViewModel.TopicDesc;
             model.TopicFile = Guid.NewGuid().ToString();
@@ -53,19 +53,19 @@ namespace ASI.Basecode.Services.Services
             return topic;
         }
 
-        public Topic GetTopic(int id)
+        public Topic GetTopic(int topicId, int trainingId)
         {
-            var topic = _topicRepository.GetTopic(id);
+            var topic = _topicRepository.GetTopic(topicId, trainingId);
 
             return topic;
         }
 
-        public bool UpdateTopic(TopicViewModel topicViewModel, string username)
+        public bool UpdateTopic(TopicViewModel topicViewModel, string username, int trainingId)
         {
-            Topic topic = _topicRepository.GetTopic(topicViewModel.Id);
+            Topic topic = _topicRepository.GetTopic(topicViewModel.TopicId, trainingId);
             if (topic != null)
             {
-                topic.Id = topicViewModel.Id;
+                //topic.Id = topicViewModel.Id;
                 //topic.TrainingId = topicViewModel.TrainingId;
                 topic.TopicName = topicViewModel.TopicName;
                 topic.TopicDesc = topicViewModel.TopicDesc;
@@ -78,9 +78,15 @@ namespace ASI.Basecode.Services.Services
 
             return false;
         }
-        public bool DeleteTopic(TopicViewModel topicViewModel)
+
+        public List<Topic> GetTopicsByTrainingId(int trainingId)
         {
-            Topic topic = _topicRepository.GetTopic(topicViewModel.Id);
+            return _topicRepository.GetTopicsByTrainingId(trainingId);
+        }
+
+        public bool DeleteTopic(int id, int trainingId)
+        {
+            Topic topic = _topicRepository.GetTopic(id, trainingId);
             if (topic != null)
             {
                 _topicRepository.DeleteTopic(topic);
@@ -89,14 +95,12 @@ namespace ASI.Basecode.Services.Services
 
             return false;
         }
-        /*
-        public List<Training> GetTopicsByTainingId(int trainingId)
-        {
-            return _dbContext.Topics
-                .Where(t => t.TopicId == trainingId)
-                .ToList();
-        }*/
 
-        
+        public bool DeleteTopicsByTrainingId(int trainingId)
+        {
+            return _topicRepository.DeleteTopicsByTrainingId(trainingId);
+        }
+
+
     }
 }

@@ -68,34 +68,66 @@ namespace ASI.Basecode.Services.Services
             return user;
         }
 
-        public bool DeleteUser(UserViewModel model)
+        public UserViewModel GetUserViewModel(User user, int id)
         {
-            User user = _repository.GetUser(model.Id);
-            if (user != null)
+            var model = new UserViewModel();
+
+            model = new()
             {
-                _repository.DeleteUser(user);
-                return true;
-            }
-            return false;
+                Id = id,
+                UserId = user.UserId,
+                FirstName = user.FirstName,
+                LastName = user.LastName,
+                Email = user.Email,
+                Username = user.Username,
+            };
+
+            return model;
+        }
+
+        public UserViewModel GetEditUserViewModel(User user, int id)
+        {
+            var model = new UserViewModel();
+
+            model = new()
+            {
+                Id = id,
+                UserId = user.UserId,
+                FirstName = user.FirstName,
+                LastName = user.LastName,
+                Email = user.Email,
+                Username = user.Username,
+                Password = PasswordManager.DecryptPassword(user.Password),
+            };
+
+            return model;
         }
 
         public bool UpdateUser(UserViewModel model, string username)
         {
             User user = _repository.GetUser(model.Id);
-            if (user != null)
-            {
+
+           
                 user.UserId = model.UserId;
                 user.FirstName = model.FirstName;
                 user.LastName = model.LastName;
                 user.Email = model.Email;
                 user.Username = model.Username;
-                //user.Password = model.Password;
                 user.Password = PasswordManager.EncryptPassword(model.Password);
 
                 user.UpdatedBy = username;
                 user.CreatedTime = DateTime.Now;
 
                 _repository.UpdateUser(user);
+                return true;
+        }
+
+        public bool DeleteUser(UserViewModel model)
+        {
+            User user = _repository.GetUser(model.Id);
+            if (user != null)
+            {
+                _repository.DeleteUser(user);
                 return true;
             }
             return false;

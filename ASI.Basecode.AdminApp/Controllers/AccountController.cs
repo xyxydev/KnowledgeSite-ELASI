@@ -154,10 +154,10 @@ namespace ASI.Basecode.AdminApp.Controllers
 
         [HttpPost]
         [AllowAnonymous]
-        public async Task<IActionResult> ResetPassword(ResetPasswordViewModel model, string newPassword, string confirmNewPassword)
+        public async Task<IActionResult> ResetPassword(ResetPasswordViewModel model)
         {
             
-            if (newPassword != confirmNewPassword)
+            if (model.NewPassword != model.ConfirmNewPassword)
             {
                 TempData["ErrorMessage"] = "Passwords do not match";
                 return RedirectToAction("ResetPassword");
@@ -167,7 +167,7 @@ namespace ASI.Basecode.AdminApp.Controllers
             var user = await _userService.GetUserByEmail(model.Email);
             if (user != null)
             {
-                bool passwordUpdated = await _userService.UpdateUserPasswordByEmail(model.Email, newPassword);
+                bool passwordUpdated = await _userService.UpdateUserPasswordByEmail(model.Email, model.NewPassword);
 
                 if (passwordUpdated)
                 {

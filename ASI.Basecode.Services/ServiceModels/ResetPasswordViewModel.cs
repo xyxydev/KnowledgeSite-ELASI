@@ -10,7 +10,7 @@ namespace ASI.Basecode.Services.ServiceModels
     {
         public string Token { get; set; }
         public string Email { get; set; }
-        public object newPassword { get; set; }
-        public object confirmNewPassword { get; set;}
+        public string NewPassword { get; set; }
+        public string ConfirmNewPassword { get; set;}
     }
 }

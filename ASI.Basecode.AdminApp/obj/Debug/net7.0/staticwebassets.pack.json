@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
+      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\resetpassword.css",
+      "PackagePath": "staticwebassets\\css\\resetpassword.css"
+    },
+    {
       "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
