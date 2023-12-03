@@ -27,5 +27,7 @@ namespace ASI.Basecode.Services.ServiceModels
         public IFormFile ImageFile { get; set; }
         [Required(ErrorMessage = "Training Image is required.")]
         public string ImageUrl { get; set; }
+
+        public double AverageRating { get; set; }
     }
 }

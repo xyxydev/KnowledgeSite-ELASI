@@ -70,6 +70,15 @@ namespace ASI.Basecode.Resources.Messages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Email already used!.
+        /// </summary>
+        public static string RatingEmailExists {
+            get {
+                return ResourceManager.GetString("RatingEmailExists", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Server error occured!.
         /// </summary>
         public static string ServerError {

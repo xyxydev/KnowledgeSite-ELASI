@@ -12,7 +12,7 @@ namespace ASI.Basecode.Services.Interfaces
     {
         void AddCategory(CategoryViewModel categoryViewModel, string username);
 
-        List<Category> GetCategory();
+        List<Category> GetCategories();
 
         Category GetCategory(int id);
 
@@ -21,6 +21,8 @@ namespace ASI.Basecode.Services.Interfaces
         bool DeleteCategory(CategoryViewModel categoryViewModel);
 
         CategoryViewModel GetCategoryViewModel(Category category);
+
+        List<CategoryViewModel> GetCategoryViewModels();
 
         CategoryViewModel GetEditCategoryViewModel(Category category, int id);
 

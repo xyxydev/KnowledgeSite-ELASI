@@ -18,6 +18,7 @@ namespace ASI.Basecode.Data
         }
 
         public virtual DbSet<Category> Categories { get; set; }
+        public virtual DbSet<Rating> Ratings { get; set; }
         public virtual DbSet<Topic> Topics { get; set; }
         public virtual DbSet<Training> Trainings { get; set; }
         public virtual DbSet<User> Users { get; set; }
@@ -52,6 +53,19 @@ namespace ASI.Basecode.Data
                     .HasMaxLength(50);
 
                 entity.Property(e => e.UpdatedTime).HasColumnType("datetime");
+            });
+
+            modelBuilder.Entity<Rating>(entity =>
+            {
+                entity.Property(e => e.Comment).IsRequired();
+
+                entity.Property(e => e.Email)
+                    .IsRequired()
+                    .HasMaxLength(50);
+
+                entity.Property(e => e.Name)
+                    .IsRequired()
+                    .HasMaxLength(50);
             });
 
             modelBuilder.Entity<Topic>(entity =>

@@ -47,9 +47,9 @@ namespace ASI.Basecode.Services.Services
 
         }
 
-        public List<Category> GetCategory()
+        public List<Category> GetCategories()
         {
-            var category = _categoryRepository.GetCategory();
+            var category = _categoryRepository.GetCategories();
             return category;
         }
 
@@ -82,6 +82,16 @@ namespace ASI.Basecode.Services.Services
             };
             return model;
 
+        }
+
+        public List<CategoryViewModel> GetCategoryViewModels()
+        {
+            List<Category> categories = _categoryRepository.GetCategorySelections();
+            return categories.Select(category => new CategoryViewModel
+            {
+                Id = category.Id,
+                CategoryName = category.CategoryName,
+            }).ToList();
         }
 
         public CategoryViewModel GetEditCategoryViewModel(Category category, int id)

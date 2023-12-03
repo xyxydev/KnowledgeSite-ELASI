@@ -96,7 +96,7 @@
     font-size: 20px;
 }
 
-.create-button {
+.save-button {
     border: none;
     background-color: #F0C808;
     color: white;
@@ -110,7 +110,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 50%;
+    width: 45%;
     margin-left: 50px;
 }
 
@@ -126,7 +126,7 @@
 .back-button-div {
     border: none;
     background-color: #DD1C1A;
-    color: white;
+    color: white !important;
     font-size: 18px;
     font-weight: 600;
     padding-top: 10px;

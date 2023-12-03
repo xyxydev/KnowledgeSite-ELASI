@@ -38,16 +38,6 @@ namespace ASI.Basecode.AdminApp.Controllers
             _categoryService = categoryService;
             _topicService = topicService;
         }
-        private List<CategoryViewModel> GetCategoryViewModels()
-        {
-            List<Category> categories = _categoryService.GetCategory();
-            return categories.Select(category => new CategoryViewModel
-            {
-                Id = category.Id,
-                CategoryName = category.CategoryName,
-            }).ToList();
-        }
-
         public IActionResult Trainings()
         {
             var training = _trainingService.GetTraining();
@@ -56,7 +46,7 @@ namespace ASI.Basecode.AdminApp.Controllers
 
         public IActionResult CreateTraining()
         {
-            ViewBag.Categories = GetCategoryViewModels();
+            ViewBag.Categories = _categoryService.GetCategoryViewModels();
             return View();
         }
         
@@ -100,7 +90,7 @@ namespace ASI.Basecode.AdminApp.Controllers
             if (training != null)
             {
                 var category = _categoryService.GetCategory(training.CategoryId);
-                var categoryViewModels = GetCategoryViewModels(); // Fetch category view models in the controller
+                var categoryViewModels = _categoryService.GetCategoryViewModels(); 
 
                 var trainingViewModel = _trainingService.GetEditTrainingViewModel(training, id, category, categoryViewModels); // Pass category view models as a parameter
 
@@ -119,21 +109,7 @@ namespace ASI.Basecode.AdminApp.Controllers
                 return RedirectToAction("Trainings");
             }
             return NotFound();
-        }
-        /*[HttpPost]
-        public IActionResult EditTraining(TrainingViewModel trainingViewModel)
-        {
-             try
-            {
-                _trainingService.UpdateTraining(trainingViewModel, this.UserName);
-                return RedirectToAction("Trainings");
-            }
-            catch (InvalidOperationException)
-            {
-                return NotFound();
-            }
-
-        }*/       
+        }  
 
 
         public IActionResult DeleteTraining(TrainingViewModel trainingViewModel)
@@ -152,6 +128,16 @@ namespace ASI.Basecode.AdminApp.Controllers
                 return RedirectToAction("Trainings");
             }
             return NotFound();
+        }
+        
+
+        public IActionResult ViewRatings(int trainingId)
+        {
+            ViewData["TrainingId"] = trainingId;
+            // Call the service method to get ratings for the specified trainingId
+            var ratings = _trainingService.GetRatingsByTrainingId(trainingId);
+            // Return the view with the fetched ratings
+            return View(ratings);
         }
 
     }

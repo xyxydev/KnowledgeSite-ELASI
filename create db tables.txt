@@ -5,6 +5,7 @@ Scaffold-DbContext "Addr=XDA-DEV-16JKYJ3; database=KnowBody_DB; Trusted_Connecti
 INSERT INTO Users (UserId, FirstName, LastName, Username, Email, Password, CreatedBy, CreatedTime, UpdatedBy, UpdatedTime)
 VALUES ('admin', 'Admin', 'Admin', 'Admin', 'xymer.i.serna@gmail.com', 'Kw7+jFXwfGw/o6Mi2vJEXw==', 'Admin', GETDATE(), 'Admin', GETDATE());
 
+password: admin
 
 CREATE TABLE [Users] (
     [Id] int IDENTITY(1,1),
@@ -56,3 +57,36 @@ CREATE TABLE [Topics] (
     [UpdatedBy] nvarchar(50) not null,
     [UpdatedTime] DateTime not null,
 );
+
+
+CREATE TABLE [Ratings] (
+    [Id] int IDENTITY(1,1) PRIMARY KEY,
+    [TrainingId] int not null,
+    [Name] nvarchar(50) not null,
+    [Email] nvarchar(50) not null,
+    [Comment] nvarchar(MAX) not null,
+    [StarRating] double not null,
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -8,4 +8,5 @@ Updating Image wont work
 Location of Toast Display - Layout/Shared
 Balihon ang placement sa create ug back button
 Remove nga AllowAnonymous
+Ratings mudawat 0 di mugana ang error required/ if allowed ba balik2 sad ang email sa pag rate
 

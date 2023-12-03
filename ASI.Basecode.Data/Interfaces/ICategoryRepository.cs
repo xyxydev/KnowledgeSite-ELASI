@@ -13,9 +13,11 @@ namespace ASI.Basecode.Data.Interfaces
 
         public void AddCategory(Category category);
 
-        public List<Category> GetCategory();
+        public List<Category> GetCategories();
 
         public Category GetCategory(int id);
+
+        public List<Category> GetCategorySelections();
 
         public void UpdateCategory(Category category);
 

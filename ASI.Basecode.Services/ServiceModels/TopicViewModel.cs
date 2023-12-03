@@ -19,7 +19,9 @@ namespace ASI.Basecode.Services.ServiceModels
         public string TopicDesc { get; set; }
 
         [Required(ErrorMessage = "Topic Image is required.")]
-        public IFormFile ImageFile { get; set; }
+        public IFormFile MaterialFile { get; set; }
         public string FileUrl { get; set; }
+
+        public string TopicFile { get; set; }
     }
 }

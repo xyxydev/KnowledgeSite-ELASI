@@ -28,6 +28,7 @@ namespace ASI.Basecode.AdminApp.Controllers
             _topicService = topicService;
             _trainingService = trainingService;
         }
+
         //TrainingId is passed through ViewBag
         public IActionResult Topics(int trainingId)
         {
@@ -45,7 +46,7 @@ namespace ASI.Basecode.AdminApp.Controllers
 
         public IActionResult CreateTopic(int trainingId)
         {
-            ViewBag.TrainingId = trainingId; // Set ViewBag.TrainingId to the provided trainingId
+            ViewBag.TrainingId = trainingId; 
             return View();
         }
 
@@ -60,44 +61,29 @@ namespace ASI.Basecode.AdminApp.Controllers
         public IActionResult ViewTopic(int id, int trainingId)
         {
             ViewBag.TrainingId = trainingId;
-            var topic = _topicService.GetTopic(id, trainingId);
-            if (topic != null)
+            var topicViewModel = _topicService.GetTopicViewModel(id, trainingId);
+
+            if (topicViewModel != null)
             {
-                TopicViewModel topicViewModel = new()
-                {
-                    TopicId = id,
-                    TopicName = topic.TopicName,
-                    TopicDesc = topic.TopicDesc,
-                };
                 return View(topicViewModel);
             }
             return NotFound();
         }
+
 
         [HttpGet]
         public IActionResult EditTopic(int id, int trainingId)
         {
             ViewBag.TrainingId = trainingId;
-            var topic = _topicService.GetTopic(id, trainingId);
-            if (topic != null)
+            var topicViewModel = _topicService.GetEditTopicViewModel(id, trainingId);
+
+            if (topicViewModel != null)
             {
-                //List<CategoryViewModel> categoryViewModels = GetCategoryViewModels();
-
-                //int selectedCategoryId = training.CategoryId;
-                var url = "https://127.0.0.1:8080/";
-
-                TopicViewModel topicViewModel = new()
-                {
-                    TopicId = id,
-                    TopicName = topic.TopicName,
-                    TopicDesc = topic.TopicDesc,
-                    FileUrl = Path.Combine(url, topic.TopicFile + ".png"),
-                };
-
                 return View(topicViewModel);
             }
             return NotFound();
         }
+
 
         [HttpPost]
         public IActionResult EditTopic(TopicViewModel topicViewModel, int trainingId)

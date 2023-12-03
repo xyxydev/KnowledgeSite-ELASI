@@ -114,12 +114,18 @@
     margin-top: 20px;
     margin-left: 15px;
 }
-.backP{
-    color: white;
+.backP {
+    color: white !important;
     text-decoration: none !important;
-    justify-content: flex-end;
     font-size: 18px;
+    font-weight: 500;
+    margin-right: 0;
 }
 a {
     text-decoration: none !important;
+}
+.backButton{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
 }

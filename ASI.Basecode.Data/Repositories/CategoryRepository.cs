@@ -28,7 +28,7 @@ namespace ASI.Basecode.Data.Repositories
         }
 
         //get all categories
-        public List<Category> GetCategory()
+        public List<Category> GetCategories()
         {
             var category = GetDbSet<Category>().ToList();
             return category;
@@ -39,6 +39,11 @@ namespace ASI.Basecode.Data.Repositories
         {
             var category = this.GetDbSet<Category>().FirstOrDefault(x => x.Id == id);
             return category;
+        }
+
+        public List<Category> GetCategorySelections()
+        {
+            return GetDbSet<Category>().ToList();
         }
 
         //update book

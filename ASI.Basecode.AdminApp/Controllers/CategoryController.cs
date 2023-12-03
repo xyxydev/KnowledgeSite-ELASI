@@ -36,7 +36,7 @@ namespace ASI.Basecode.AdminApp.Controllers
 
         public IActionResult TrainingCategories()
         {
-            var category = _categoryService.GetCategory();
+            var category = _categoryService.GetCategories();
             return View(category);
         }
 

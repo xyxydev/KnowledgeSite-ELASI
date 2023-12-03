@@ -29,5 +29,14 @@ namespace ASI.Basecode.Services.Interfaces
         TrainingViewModel GetTrainingViewModel(Training training, int id, Category category);
 
         TrainingViewModel GetEditTrainingViewModel(Training training, int id, Category category, List<CategoryViewModel> categoryViewModels);
+        public string GetCategoryNameById(int categoryId);
+
+        public void AddRating(RatingViewModel ratingViewModel, int trainingId);
+
+        public List<Rating> GetRatingsByTrainingId(int trainingId);
+
+        public TrainingViewModel GetTrainingWithAverageRating(int id);
+
+
     }
 }

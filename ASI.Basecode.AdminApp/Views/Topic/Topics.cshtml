@@ -11,21 +11,27 @@
 }
 <div class="userlist-div">
     <div class="inside-userlist">
-        <div>
-            <p>Topics under training: @ViewBag.TrainingName</p>
-        </div>
-        <div class="addIcon-div">
-            <a class="add-icon-div" asp-controller="Topic" asp-route-trainingId="@trainingId" asp-action="CreateTopic">
-                <i class="fa fa-plus add-icon"></i>
-            </a>
+        <div class="topBackbutton">
             <a class="back-button-div" asp-controller="Training" asp-action="ViewTraining" asp-route-id="@id">
                 <p class="back-button-p">BACK TO TRAINING</p>
             </a>
+        </div>
+        <div class="topofContainer">
+            <div>
+                <span class="topicsUnder">Topics under: </span>
+                <span class="trainingName">@ViewBag.TrainingName</span>
+            </div>
+            <div class="addIcon-div">
+                <a class="add-icon" asp-controller="Topic" asp-route-trainingId="@trainingId" asp-action="CreateTopic">
+                    <i class="fa fa-plus add-icon"></i>
+                </a>
+            </div>
         </div>
         <div class="table-container">
             <table class="table table-borderless">
                 <thead class="custom-thead">
                     <tr>
+                        <th scope="col">ROW #</th>
                         <th scope="col">TOPIC ID</th>
                         <th scope="col">TOPIC NAME </th>
                         <th scope="col">ACTIONS</th>
@@ -34,9 +40,11 @@
                 <tbody>
                     @if (Model != null && Model.Count > 0)
                     {
+                        var count = 1;
                         @foreach (var topic in Model)
                         {
                             <tr style="color:white">
+                                <td>@count</td>
                                 <td>@topic.TopicId</td>
                                 <td>@topic.TopicName</td>
                                 <td>
@@ -61,6 +69,7 @@
                                     </div>
                                 </td>
                             </tr>
+                            count++;
                         }
                     }
                     else
@@ -105,7 +114,7 @@
     </script>
     <script>
         function displayData(page) {
-            var pageSize = 9;
+            var pageSize = 8;
             var start = (page - 1) * pageSize;
             var end = start + pageSize;
             var $rows = $('.table tbody tr');
