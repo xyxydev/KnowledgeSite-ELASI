@@ -199,8 +199,11 @@
                 var container = trainingContainers[i];
                 var categoryName = container.getAttribute('data-category-name');
 
-                if (categoryName !== null) {
+                if (categoryName !== null && categoryName.trim() !== '') {
                     categories.add(categoryName);
+                } else {
+                    container.setAttribute('data-category-name', 'No category selected');
+                    categories.add('No category selected');
                 }
             }
 
@@ -229,6 +232,7 @@
             }
         }
     </script>
+
     <script>
         document.addEventListener("DOMContentLoaded", function () {
             $('.trainingContainer:gt(3)').hide();

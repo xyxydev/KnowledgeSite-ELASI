@@ -9,121 +9,121 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ASI.Basecode.AdminApp
 build_property.RootNamespace = ASI.Basecode.AdminApp
-build_property.ProjectDir = D:\ALLIANCE TESTING\ASI.Basecode.AdminApp\
+build_property.ProjectDir = D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.AdminApp\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = D:\ALLIANCE TESTING\ASI.Basecode.AdminApp
+build_property.MSBuildProjectDirectory = D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.AdminApp
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/Account/ForgotPassword.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/Account/Login.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/Account/Register.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/Account/ResetPassword.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/Category/CreateCategory.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/Category/CreateCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/Category/EditCategory.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/Category/EditCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdENhdGVnb3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/Category/TrainingCategories.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/Category/TrainingCategories.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcVHJhaW5pbmdDYXRlZ29yaWVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/Category/ViewCategory.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/Category/ViewCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcVmlld0NhdGVnb3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/Home/Index.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/Shared/Error.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/Shared/_Header.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/Shared/_Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/Shared/_Layout.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/Topic/CreateTopic.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/Topic/CreateTopic.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9waWNcQ3JlYXRlVG9waWMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/Topic/EditTopic.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/Topic/EditTopic.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9waWNcRWRpdFRvcGljLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/Topic/Topics.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/Topic/Topics.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9waWNcVG9waWNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/Topic/ViewTopic.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/Topic/ViewTopic.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9waWNcVmlld1RvcGljLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/Training/CreateTraining.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/Training/CreateTraining.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5pbmdcQ3JlYXRlVHJhaW5pbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/Training/EditTraining.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/Training/EditTraining.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5pbmdcRWRpdFRyYWluaW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/Training/Trainings.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/Training/Trainings.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5pbmdcVHJhaW5pbmdzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/Training/ViewRatings.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/Training/ViewRatings.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5pbmdcVmlld1JhdGluZ3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/Training/ViewTraining.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/Training/ViewTraining.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5pbmdcVmlld1RyYWluaW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/UserMaster/CreateUser.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/UserMaster/CreateUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hc3RlclxDcmVhdGVVc2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/UserMaster/EditUser.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/UserMaster/EditUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hc3RlclxFZGl0VXNlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/UserMaster/UserMaster.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/UserMaster/UserMaster.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hc3RlclxVc2VyTWFzdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/UserMaster/ViewUser.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/UserMaster/ViewUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hc3RlclxWaWV3VXNlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/_ViewImports.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ALLIANCE TESTING/ASI.Basecode.AdminApp/Views/_ViewStart.cshtml]
+[D:/ALLIANCE GIT PUSH PULL/ASI.Basecode.AdminApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

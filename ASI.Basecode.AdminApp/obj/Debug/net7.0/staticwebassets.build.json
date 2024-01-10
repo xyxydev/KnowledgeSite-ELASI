@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/B0HcWlUWvrM+iZIxjb99phwRKTTWFEDpqKwVB7RtXQ=",
+  "Hash": "hl7CoZeqabyY7GxqHOBVXqm67h/WQxUTZemLNBMbAOI=",
   "Source": "ASI.Basecode.AdminApp",
   "BasePath": "_content/ASI.Basecode.AdminApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ASI.Basecode.AdminApp\\wwwroot",
       "Source": "ASI.Basecode.AdminApp",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\createcategory.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\createcategory.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "css/createcategory.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\createcategory.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\createtopic.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\createtopic.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "css/createtopic.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\css\\createtopic.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\createtraining.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\createtraining.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "css/createtraining.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\createtraining.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\createuser.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\createuser.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "css/createuser.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\createuser.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\editcategory.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\editcategory.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "css/editcategory.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\editcategory.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\edittopic.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\edittopic.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "css/edittopic.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\edittopic.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\edittraining.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\edittraining.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "css/edittraining.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\edittraining.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\edituser.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\edituser.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "css/edituser.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\edituser.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\forgotpass.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\forgotpass.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "css/forgotpass.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\forgotpass.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\index.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\index.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "css/index.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\index.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\login.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\login.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\ratings.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\ratings.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "css/ratings.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\ratings.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\resetpassword.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\resetpassword.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "css/resetpassword.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\resetpassword.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\site.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\site.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\style.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\style.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\topics.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\topics.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "css/topics.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\topics.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\trainingcategory.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\trainingcategory.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "css/trainingcategory.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\css\\trainingcategory.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\trainings.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\trainings.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "css/trainings.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\css\\trainings.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\usermaster.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\usermaster.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "css/usermaster.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\usermaster.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\viewcategory.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\viewcategory.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "css/viewcategory.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\css\\viewcategory.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\viewtopic.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\viewtopic.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "css/viewtopic.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\css\\viewtopic.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\viewtraining.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\viewtraining.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "css/viewtraining.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\css\\viewtraining.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\viewuser.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\viewuser.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "css/viewuser.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\css\\viewuser.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\favicon.ico",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\favicon.ico",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\fonts\\roboto.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\fonts\\roboto.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "fonts/roboto.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\roboto.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\html\\assets\\js\\plugins\\jquery-slimscroll\\jquery.slimscroll.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\html\\assets\\js\\plugins\\jquery-slimscroll\\jquery.slimscroll.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "html/assets/js/plugins/jquery-slimscroll/jquery.slimscroll.js",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\html\\assets\\js\\plugins\\jquery-slimscroll\\jquery.slimscroll.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\html\\assets\\js\\plugins\\jquery-slimscroll\\jquery.slimscroll.min.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\html\\assets\\js\\plugins\\jquery-slimscroll\\jquery.slimscroll.min.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "html/assets/js/plugins/jquery-slimscroll/jquery.slimscroll.min.js",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\html\\assets\\js\\plugins\\jquery-slimscroll\\jquery.slimscroll.min.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\adminpicBlue.png",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\adminpicBlue.png",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "img/adminpicBlue.png",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\img\\adminpicBlue.png"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\asi-logo-invert.svg",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\asi-logo-invert.svg",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "img/asi-logo-invert.svg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\img\\asi-logo-invert.svg"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\blueBG.png",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\blueBG.png",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "img/blueBG.png",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blueBG.png"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\book.png",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\book.png",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "img/book.png",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\img\\book.png"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\category.png",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\category.png",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "img/category.png",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\img\\category.png"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\defaultPic.png",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\defaultPic.png",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "img/defaultPic.png",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\img\\defaultPic.png"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\forgotpasswordPic.png",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\forgotpasswordPic.png",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "img/forgotpasswordPic.png",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\img\\forgotpasswordPic.png"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\knowbody.png",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\knowbody.png",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "img/knowbody.png",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\img\\knowbody.png"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\lightyellow.png",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\lightyellow.png",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "img/lightyellow.png",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\img\\lightyellow.png"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\LiveIT.png",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\LiveIT.png",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "img/LiveIT.png",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\img\\LiveIT.png"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\logo.png",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\logo.png",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "img/logo.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\material.png",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\material.png",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "img/material.png",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\img\\material.png"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\materialRB.png",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\materialRB.png",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "img/materialRB.png",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\img\\materialRB.png"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\mp4.png",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\mp4.png",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "img/mp4.png",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\img\\mp4.png"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\multiple.png",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\multiple.png",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "img/multiple.png",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\img\\multiple.png"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\pdf.png",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\pdf.png",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "img/pdf.png",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pdf.png"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\ppt.png",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\ppt.png",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "img/ppt.png",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ppt.png"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\profile-logo.png",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\profile-logo.png",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "img/profile-logo.png",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\img\\profile-logo.png"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\skyBG.png",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\skyBG.png",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "img/skyBG.png",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\img\\skyBG.png"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\training.png",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\training.png",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "img/training.png",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\img\\training.png"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\Trainings.png",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\Trainings.png",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "img/Trainings.png",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Trainings.png"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\usermaster.png",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\usermaster.png",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "img/usermaster.png",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\img\\usermaster.png"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\yellowBG.png",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\yellowBG.png",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "img/yellowBG.png",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\img\\yellowBG.png"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\js\\site.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\js\\site.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react\\dist\\react.development.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react\\dist\\react.development.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/react/dist/react.development.js",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\react\\dist\\react.development.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react\\dist\\react.production.min.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react\\dist\\react.production.min.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/react/dist/react.production.min.js",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\react\\dist\\react.production.min.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react\\dist\\react.profiling.min.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react\\dist\\react.profiling.min.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/react/dist/react.profiling.min.js",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\react\\dist\\react.profiling.min.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom.development.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom.development.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/react-dom/dist/react-dom.development.js",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\react-dom\\dist\\react-dom.development.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom.production.min.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom.production.min.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/react-dom/dist/react-dom.production.min.js",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\react-dom\\dist\\react-dom.production.min.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom.profiling.min.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom.profiling.min.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/react-dom/dist/react-dom.profiling.min.js",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\react-dom\\dist\\react-dom.profiling.min.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-server.browser.development.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-server.browser.development.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/react-dom/dist/react-dom-server.browser.development.js",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\react-dom\\dist\\react-dom-server.browser.development.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-server.browser.production.min.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-server.browser.production.min.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/react-dom/dist/react-dom-server.browser.production.min.js",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\react-dom\\dist\\react-dom-server.browser.production.min.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-test-utils.development.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-test-utils.development.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/react-dom/dist/react-dom-test-utils.development.js",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\react-dom\\dist\\react-dom-test-utils.development.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-test-utils.production.min.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-test-utils.production.min.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/react-dom/dist/react-dom-test-utils.production.min.js",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\react-dom\\dist\\react-dom-test-utils.production.min.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-fizz.browser.development.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-fizz.browser.development.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/react-dom/dist/react-dom-unstable-fizz.browser.development.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-fizz.browser.development.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-fizz.browser.production.min.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-fizz.browser.production.min.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/react-dom/dist/react-dom-unstable-fizz.browser.production.min.js",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-fizz.browser.production.min.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-native-dependencies.development.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-native-dependencies.development.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/react-dom/dist/react-dom-unstable-native-dependencies.development.js",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-native-dependencies.development.js"
     },
     {
-      "Identity": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-native-dependencies.production.min.js",
+      "Identity": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-native-dependencies.production.min.js",
       "SourceId": "ASI.Basecode.AdminApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\",
+      "ContentRoot": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\",
       "BasePath": "_content/ASI.Basecode.AdminApp",
       "RelativePath": "lib/react-dom/dist/react-dom-unstable-native-dependencies.production.min.js",
       "AssetKind": "All",

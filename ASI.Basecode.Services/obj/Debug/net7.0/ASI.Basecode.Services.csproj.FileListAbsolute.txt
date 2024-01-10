@@ -83,3 +83,20 @@ D:\ALLIANCE TESTING\ASI.Basecode.Services\obj\Debug\net7.0\ASI.Basecode.Services
 D:\ALLIANCE TESTING\ASI.Basecode.Services\obj\Debug\net7.0\refint\ASI.Basecode.Services.dll
 D:\ALLIANCE TESTING\ASI.Basecode.Services\obj\Debug\net7.0\ASI.Basecode.Services.pdb
 D:\ALLIANCE TESTING\ASI.Basecode.Services\obj\Debug\net7.0\ref\ASI.Basecode.Services.dll
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Services\bin\Debug\net7.0\ASI.Basecode.Services.deps.json
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Services\bin\Debug\net7.0\ASI.Basecode.Services.dll
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Services\bin\Debug\net7.0\ASI.Basecode.Services.pdb
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Services\bin\Debug\net7.0\ASI.Basecode.Data.dll
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Services\bin\Debug\net7.0\ASI.Basecode.Resources.dll
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Services\bin\Debug\net7.0\ASI.Basecode.Data.pdb
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Services\bin\Debug\net7.0\ASI.Basecode.Resources.pdb
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Services\obj\Debug\net7.0\ASI.Basecode.Services.csproj.AssemblyReference.cache
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Services\obj\Debug\net7.0\ASI.Basecode.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Services\obj\Debug\net7.0\ASI.Basecode.Services.AssemblyInfoInputs.cache
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Services\obj\Debug\net7.0\ASI.Basecode.Services.AssemblyInfo.cs
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Services\obj\Debug\net7.0\ASI.Basecode.Services.csproj.CoreCompileInputs.cache
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Services\obj\Debug\net7.0\ASI.Basecode.Services.csproj.CopyComplete
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Services\obj\Debug\net7.0\ASI.Basecode.Services.dll
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Services\obj\Debug\net7.0\refint\ASI.Basecode.Services.dll
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Services\obj\Debug\net7.0\ASI.Basecode.Services.pdb
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Services\obj\Debug\net7.0\ref\ASI.Basecode.Services.dll
