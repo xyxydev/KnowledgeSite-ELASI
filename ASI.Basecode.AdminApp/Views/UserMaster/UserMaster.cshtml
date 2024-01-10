@@ -18,11 +18,11 @@
         </div>
         <div class="table-container">
             <table class="table">
-                <thead class="custom-thead">
+                <thead class="custom-thead" style="font-size: 25px;">
                     <tr>
                         <th scope="col">ROW #</th>
                         <th scope="col">USER ID</th>
-                        <th scope="col">DSIPLAY NAME</th>
+                        <th scope="col">DISPLAY NAME</th>
                         <th scope="col">EMAIL</th>
                         <th scope="col">ACTIONS</th>
                     </tr>
@@ -33,7 +33,7 @@
                         var count = 1;
                         @foreach (var users in Model)
                         {
-                            <tr style="color:white">
+                            <tr style="color:white; font-size: 20px;">
                                 <td>@count</td>
                                 <td>@users.UserId</td>
                                 <td>@users.Username</td>
@@ -48,12 +48,21 @@
                                             <input type="hidden" name="id" value="@users.Id" />
                                             <button type="submit" class="btn btn-success btn-spacing"><i class="fa fa-pen"></i> </button>
                                         </form>
-                                        <form id="deleteForm-@users.Id" asp-controller="UserMaster" asp-action="Delete" method="post">
-                                            <input type="hidden" name="id" value="@users.Id" />
-                                            <button type="button" class="btn btn-danger btn-spacing" onclick="confirmDelete('@users.Id')">
+                                        @if (Model.Count > 1)
+                                        {
+                                            <form id="deleteForm-@users.Id" asp-controller="UserMaster" asp-action="Delete" method="post">
+                                                <input type="hidden" name="id" value="@users.Id" />
+                                                <button type="button" class="btn btn-danger btn-spacing" onclick="confirmDelete('@users.Id')">
+                                                    <i class="fa fa-trash-can"></i>
+                                                </button>
+                                            </form>
+                                        }
+                                        else
+                                        {
+                                            <button type="button" class="btn btn-danger btn-spacing" disabled>
                                                 <i class="fa fa-trash-can"></i>
                                             </button>
-                                        </form>
+                                        }
 
                                     </div>
                                 </td>

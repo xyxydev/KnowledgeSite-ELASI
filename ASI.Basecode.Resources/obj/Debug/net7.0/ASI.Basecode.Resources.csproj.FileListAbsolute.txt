@@ -95,3 +95,22 @@ D:\ALLIANCE TESTING\ASI.Basecode.Resources\obj\Debug\net7.0\ASI.Basecode.Resourc
 D:\ALLIANCE TESTING\ASI.Basecode.Resources\obj\Debug\net7.0\refint\ASI.Basecode.Resources.dll
 D:\ALLIANCE TESTING\ASI.Basecode.Resources\obj\Debug\net7.0\ASI.Basecode.Resources.pdb
 D:\ALLIANCE TESTING\ASI.Basecode.Resources\obj\Debug\net7.0\ref\ASI.Basecode.Resources.dll
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Resources\bin\Debug\net7.0\ASI.Basecode.Resources.deps.json
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Resources\bin\Debug\net7.0\ASI.Basecode.Resources.dll
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Resources\bin\Debug\net7.0\ASI.Basecode.Resources.pdb
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Resources\obj\Debug\net7.0\ASI.Basecode.Resources.Messages.Common.resources
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Resources\obj\Debug\net7.0\ASI.Basecode.Resources.Messages.Errors.resources
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Resources\obj\Debug\net7.0\ASI.Basecode.Resources.Views.Account.resources
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Resources\obj\Debug\net7.0\ASI.Basecode.Resources.Views.Button.resources
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Resources\obj\Debug\net7.0\ASI.Basecode.Resources.Views.Screen.resources
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Resources\obj\Debug\net7.0\ASI.Basecode.Resources.Views.Table.resources
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Resources\obj\Debug\net7.0\ASI.Basecode.Resources.Views.TitleText.resources
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Resources\obj\Debug\net7.0\ASI.Basecode.Resources.csproj.GenerateResource.cache
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Resources\obj\Debug\net7.0\ASI.Basecode.Resources.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Resources\obj\Debug\net7.0\ASI.Basecode.Resources.AssemblyInfoInputs.cache
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Resources\obj\Debug\net7.0\ASI.Basecode.Resources.AssemblyInfo.cs
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Resources\obj\Debug\net7.0\ASI.Basecode.Resources.csproj.CoreCompileInputs.cache
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Resources\obj\Debug\net7.0\ASI.Basecode.Resources.dll
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Resources\obj\Debug\net7.0\refint\ASI.Basecode.Resources.dll
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Resources\obj\Debug\net7.0\ASI.Basecode.Resources.pdb
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Resources\obj\Debug\net7.0\ref\ASI.Basecode.Resources.dll

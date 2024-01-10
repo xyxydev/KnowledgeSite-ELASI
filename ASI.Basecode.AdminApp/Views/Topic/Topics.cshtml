@@ -29,7 +29,7 @@
         </div>
         <div class="table-container">
             <table class="table table-borderless">
-                <thead class="custom-thead">
+                <thead class="custom-thead" style="font-size: 25px;">
                     <tr>
                         <th scope="col">ROW #</th>
                         <th scope="col">TOPIC ID</th>
@@ -43,7 +43,7 @@
                         var count = 1;
                         @foreach (var topic in Model)
                         {
-                            <tr style="color:white">
+                            <tr style="color:white; font-size: 20px;">
                                 <td>@count</td>
                                 <td>@topic.TopicId</td>
                                 <td>@topic.TopicName</td>

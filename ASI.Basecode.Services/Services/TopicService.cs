@@ -79,7 +79,7 @@ namespace ASI.Basecode.Services.Services
 
         public TopicViewModel GetTopicViewModel(int id, int trainingId)
         {
-            var topic = _topicRepository.GetTopic(id, trainingId); 
+            var topic = _topicRepository.GetTopic(id, trainingId);
 
             if (topic != null)
             {

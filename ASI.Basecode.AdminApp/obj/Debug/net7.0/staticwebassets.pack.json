@@ -1,395 +1,395 @@
 {
   "Files": [
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\createcategory.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\createcategory.css",
       "PackagePath": "staticwebassets\\css\\createcategory.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\createtopic.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\createtopic.css",
       "PackagePath": "staticwebassets\\css\\createtopic.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\createtraining.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\createtraining.css",
       "PackagePath": "staticwebassets\\css\\createtraining.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\createuser.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\createuser.css",
       "PackagePath": "staticwebassets\\css\\createuser.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\editcategory.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\editcategory.css",
       "PackagePath": "staticwebassets\\css\\editcategory.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\edittopic.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\edittopic.css",
       "PackagePath": "staticwebassets\\css\\edittopic.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\edittraining.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\edittraining.css",
       "PackagePath": "staticwebassets\\css\\edittraining.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\edituser.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\edituser.css",
       "PackagePath": "staticwebassets\\css\\edituser.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\forgotpass.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\forgotpass.css",
       "PackagePath": "staticwebassets\\css\\forgotpass.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\index.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\index.css",
       "PackagePath": "staticwebassets\\css\\index.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\login.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\ratings.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\ratings.css",
       "PackagePath": "staticwebassets\\css\\ratings.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\resetpassword.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\resetpassword.css",
       "PackagePath": "staticwebassets\\css\\resetpassword.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\site.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\style.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\topics.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\topics.css",
       "PackagePath": "staticwebassets\\css\\topics.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\trainingcategory.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\trainingcategory.css",
       "PackagePath": "staticwebassets\\css\\trainingcategory.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\trainings.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\trainings.css",
       "PackagePath": "staticwebassets\\css\\trainings.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\usermaster.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\usermaster.css",
       "PackagePath": "staticwebassets\\css\\usermaster.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\viewcategory.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\viewcategory.css",
       "PackagePath": "staticwebassets\\css\\viewcategory.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\viewtopic.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\viewtopic.css",
       "PackagePath": "staticwebassets\\css\\viewtopic.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\viewtraining.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\viewtraining.css",
       "PackagePath": "staticwebassets\\css\\viewtraining.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\css\\viewuser.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\css\\viewuser.css",
       "PackagePath": "staticwebassets\\css\\viewuser.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\favicon.ico",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\fonts\\roboto.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\fonts\\roboto.css",
       "PackagePath": "staticwebassets\\fonts\\roboto.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\html\\assets\\js\\plugins\\jquery-slimscroll\\jquery.slimscroll.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\html\\assets\\js\\plugins\\jquery-slimscroll\\jquery.slimscroll.js",
       "PackagePath": "staticwebassets\\html\\assets\\js\\plugins\\jquery-slimscroll\\jquery.slimscroll.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\html\\assets\\js\\plugins\\jquery-slimscroll\\jquery.slimscroll.min.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\html\\assets\\js\\plugins\\jquery-slimscroll\\jquery.slimscroll.min.js",
       "PackagePath": "staticwebassets\\html\\assets\\js\\plugins\\jquery-slimscroll\\jquery.slimscroll.min.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\LiveIT.png",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\LiveIT.png",
       "PackagePath": "staticwebassets\\img\\LiveIT.png"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\Trainings.png",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\Trainings.png",
       "PackagePath": "staticwebassets\\img\\Trainings.png"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\adminpicBlue.png",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\adminpicBlue.png",
       "PackagePath": "staticwebassets\\img\\adminpicBlue.png"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\asi-logo-invert.svg",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\asi-logo-invert.svg",
       "PackagePath": "staticwebassets\\img\\asi-logo-invert.svg"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\blueBG.png",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\blueBG.png",
       "PackagePath": "staticwebassets\\img\\blueBG.png"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\book.png",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\book.png",
       "PackagePath": "staticwebassets\\img\\book.png"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\category.png",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\category.png",
       "PackagePath": "staticwebassets\\img\\category.png"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\defaultPic.png",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\defaultPic.png",
       "PackagePath": "staticwebassets\\img\\defaultPic.png"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\forgotpasswordPic.png",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\forgotpasswordPic.png",
       "PackagePath": "staticwebassets\\img\\forgotpasswordPic.png"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\knowbody.png",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\knowbody.png",
       "PackagePath": "staticwebassets\\img\\knowbody.png"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\lightyellow.png",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\lightyellow.png",
       "PackagePath": "staticwebassets\\img\\lightyellow.png"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\logo.png",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\material.png",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\material.png",
       "PackagePath": "staticwebassets\\img\\material.png"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\materialRB.png",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\materialRB.png",
       "PackagePath": "staticwebassets\\img\\materialRB.png"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\mp4.png",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\mp4.png",
       "PackagePath": "staticwebassets\\img\\mp4.png"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\multiple.png",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\multiple.png",
       "PackagePath": "staticwebassets\\img\\multiple.png"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\pdf.png",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\pdf.png",
       "PackagePath": "staticwebassets\\img\\pdf.png"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\ppt.png",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\ppt.png",
       "PackagePath": "staticwebassets\\img\\ppt.png"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\profile-logo.png",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\profile-logo.png",
       "PackagePath": "staticwebassets\\img\\profile-logo.png"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\skyBG.png",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\skyBG.png",
       "PackagePath": "staticwebassets\\img\\skyBG.png"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\training.png",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\training.png",
       "PackagePath": "staticwebassets\\img\\training.png"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\usermaster.png",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\usermaster.png",
       "PackagePath": "staticwebassets\\img\\usermaster.png"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\img\\yellowBG.png",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\img\\yellowBG.png",
       "PackagePath": "staticwebassets\\img\\yellowBG.png"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\js\\site.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-server.browser.development.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-server.browser.development.js",
       "PackagePath": "staticwebassets\\lib\\react-dom\\dist\\react-dom-server.browser.development.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-server.browser.production.min.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-server.browser.production.min.js",
       "PackagePath": "staticwebassets\\lib\\react-dom\\dist\\react-dom-server.browser.production.min.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-test-utils.development.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-test-utils.development.js",
       "PackagePath": "staticwebassets\\lib\\react-dom\\dist\\react-dom-test-utils.development.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-test-utils.production.min.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-test-utils.production.min.js",
       "PackagePath": "staticwebassets\\lib\\react-dom\\dist\\react-dom-test-utils.production.min.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-fizz.browser.development.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-fizz.browser.development.js",
       "PackagePath": "staticwebassets\\lib\\react-dom\\dist\\react-dom-unstable-fizz.browser.development.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-fizz.browser.production.min.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-fizz.browser.production.min.js",
       "PackagePath": "staticwebassets\\lib\\react-dom\\dist\\react-dom-unstable-fizz.browser.production.min.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-native-dependencies.development.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-native-dependencies.development.js",
       "PackagePath": "staticwebassets\\lib\\react-dom\\dist\\react-dom-unstable-native-dependencies.development.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-native-dependencies.production.min.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-native-dependencies.production.min.js",
       "PackagePath": "staticwebassets\\lib\\react-dom\\dist\\react-dom-unstable-native-dependencies.production.min.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom.development.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom.development.js",
       "PackagePath": "staticwebassets\\lib\\react-dom\\dist\\react-dom.development.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom.production.min.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom.production.min.js",
       "PackagePath": "staticwebassets\\lib\\react-dom\\dist\\react-dom.production.min.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom.profiling.min.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react-dom\\dist\\react-dom.profiling.min.js",
       "PackagePath": "staticwebassets\\lib\\react-dom\\dist\\react-dom.profiling.min.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react\\dist\\react.development.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react\\dist\\react.development.js",
       "PackagePath": "staticwebassets\\lib\\react\\dist\\react.development.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react\\dist\\react.production.min.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react\\dist\\react.production.min.js",
       "PackagePath": "staticwebassets\\lib\\react\\dist\\react.production.min.js"
     },
     {
-      "Id": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react\\dist\\react.profiling.min.js",
+      "Id": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\wwwroot\\lib\\react\\dist\\react.profiling.min.js",
       "PackagePath": "staticwebassets\\lib\\react\\dist\\react.profiling.min.js"
     },
     {

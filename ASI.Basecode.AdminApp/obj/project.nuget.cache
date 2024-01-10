@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ernxv6FjP91+ceHLKvkRJYbxVEkny1XCaQJtxwCR9askuFLw4ej17OQNekcldZOw0iTkE5sXOOmZq0AlJvWp2g==",
+  "dgSpecHash": "LanBRI7wZkKpmuTYaHqPfZpq7Q4xgHdhUWU1tJmRJnBrbvF0CAxgBBwVNFhiwXOQFLXLH9p7Xc55MaiqA46jlA==",
   "success": true,
-  "projectFilePath": "D:\\ALLIANCE TESTING\\ASI.Basecode.AdminApp\\ASI.Basecode.AdminApp.csproj",
+  "projectFilePath": "D:\\ALLIANCE GIT PUSH PULL\\ASI.Basecode.AdminApp\\ASI.Basecode.AdminApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xserna\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\xserna\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",

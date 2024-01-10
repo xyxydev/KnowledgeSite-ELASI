@@ -68,3 +68,17 @@ D:\ALLIANCE TESTING\ASI.Basecode.Data\obj\Debug\net7.0\refint\ASI.Basecode.Data.
 D:\ALLIANCE TESTING\ASI.Basecode.Data\obj\Debug\net7.0\ASI.Basecode.Data.pdb
 D:\ALLIANCE TESTING\ASI.Basecode.Data\obj\Debug\net7.0\ASI.Basecode.Data.genruntimeconfig.cache
 D:\ALLIANCE TESTING\ASI.Basecode.Data\obj\Debug\net7.0\ref\ASI.Basecode.Data.dll
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Data\bin\Debug\net7.0\ASI.Basecode.Data.deps.json
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Data\bin\Debug\net7.0\ASI.Basecode.Data.runtimeconfig.json
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Data\bin\Debug\net7.0\ASI.Basecode.Data.dll
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Data\bin\Debug\net7.0\ASI.Basecode.Data.pdb
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Data\obj\Debug\net7.0\ASI.Basecode.Data.csproj.AssemblyReference.cache
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Data\obj\Debug\net7.0\ASI.Basecode.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Data\obj\Debug\net7.0\ASI.Basecode.Data.AssemblyInfoInputs.cache
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Data\obj\Debug\net7.0\ASI.Basecode.Data.AssemblyInfo.cs
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Data\obj\Debug\net7.0\ASI.Basecode.Data.csproj.CoreCompileInputs.cache
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Data\obj\Debug\net7.0\ASI.Basecode.Data.dll
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Data\obj\Debug\net7.0\refint\ASI.Basecode.Data.dll
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Data\obj\Debug\net7.0\ASI.Basecode.Data.pdb
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Data\obj\Debug\net7.0\ASI.Basecode.Data.genruntimeconfig.cache
+D:\ALLIANCE GIT PUSH PULL\ASI.Basecode.Data\obj\Debug\net7.0\ref\ASI.Basecode.Data.dll

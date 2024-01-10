@@ -121,6 +121,12 @@ namespace ASI.Basecode.AdminApp.Controllers
         {
             return View();
         }
+        /// <summary>
+        /// Takes the email of the user, check if it exists. If exists, generate token, 
+        /// then reset link, then send reset link to email by the _emailService.
+        /// </summary>
+        /// <param name="email"></param>
+        /// <returns></returns>
         [HttpPost]
         [AllowAnonymous]
         public async Task<IActionResult> ForgotPassword(string email)
@@ -132,19 +138,19 @@ namespace ASI.Basecode.AdminApp.Controllers
                 return RedirectToAction("ForgotPassword");
             }
 
-            var resetToken = GenerateResetToken(); 
+            var resetToken = Guid.NewGuid().ToString(); 
             var resetLink = Url.Action("ResetPassword", "Account", new { token = resetToken, email = email }, Request.Scheme);
             await _emailService.SendResetPasswordEmail(email, resetLink); 
 
             TempData["SuccessMessage"] = "Password reset instructions sent to your email";
             return RedirectToAction("Login");
         }
-
-        private string GenerateResetToken()
-        {
-            return Guid.NewGuid().ToString();
-        }
-        
+        /// <summary>
+        /// Takes the email from the url and use it to identify the user
+        /// </summary>
+        /// <param name="token"></param>
+        /// <param name="email"></param>
+        /// <returns></returns>
         [HttpGet]
         [AllowAnonymous]
         public IActionResult ResetPassword(string token, string email)
@@ -160,10 +166,11 @@ namespace ASI.Basecode.AdminApp.Controllers
             if (model.NewPassword != model.ConfirmNewPassword)
             {
                 TempData["ErrorMessage"] = "Passwords do not match";
-                return RedirectToAction("ResetPassword");
+                return RedirectToAction("ResetPassword", new { token = model.Token, email = model.Email });
+
 
             }
- 
+
             var user = await _userService.GetUserByEmail(model.Email);
             if (user != null)
             {
@@ -177,7 +184,8 @@ namespace ASI.Basecode.AdminApp.Controllers
                 else
                 {
                     TempData["ErrorMessage"] = "Failed to update password";
-                    return RedirectToAction("ResetPassword");
+                    return RedirectToAction("ResetPassword", new { token = model.Token, email = model.Email });
+
                 }
             }
             else
